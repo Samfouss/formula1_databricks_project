@@ -6,10 +6,13 @@
 Un projet d'ingénierie de données de niveau production implémentant une architecture lakehouse moderne pour l'analyse de données de courses Formula 1.
 
 ## Architecture utilisée
+
 <img width="1826" height="863" alt="Capture d&#39;écran 2026-01-02 210300" src="https://github.com/user-attachments/assets/af60795e-ce03-483d-8e14-993e8140990c" />
+
 (Source : Real World Project on Formula1 Racing using Databricks, PySpark, Spark SQL, Delta Lake, Unity Catalog,Azure Data Factory, cours Udemy)
-<img width="1826" height="863" alt="Capture d&#39;écran 2026-01-02 210300" src="https://github.com/user-attachments/assets/0bb24ec1-3ad7-49fe-a8e4-957d0643d6ef" />
+
 <img width="664" height="719" alt="Capture d&#39;écran 2026-01-02 210319" src="https://github.com/user-attachments/assets/3a949bd8-73ea-4c3a-b885-bd4cd0d2e468" />
+
 (https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
 
 ## Pipeline ETL
