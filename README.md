@@ -19,10 +19,10 @@ Un projet d'ingénierie de données de niveau production implémentant une archi
 ### Phase 1 : Ingestion (Bronze Layer)
 Objectif : Charger les données brutes dans Delta Lake avec métadonnées
 
-Phase 2 : Transformation (Silver Layer)
+### Phase 2 : Transformation (Silver Layer)
 Objectif : Nettoyer, valider et enrichir les données
 
-Phase 3 : Analytics (Gold Layer)
+### Phase 3 : Analytics (Gold Layer)
 Objectif : Créer des tables agrégées pour analyses métier
 
 ## 🎯 Fonctionnalités Clés
